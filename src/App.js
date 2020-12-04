@@ -8,6 +8,7 @@ const App = () => {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Luis Esta Saludando
+          Hola Mundo
         </p>
         <a
           className="App-link"
